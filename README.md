@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dark-Code404</h1>
 <h3 align="center">A passionate about computer mechanism and programming intestered in Software Architect or Software Engineering.</h3>
-<img align="center" alt="Coding" width="1000" height="500" src="https://as2.ftcdn.net/v2/jpg/03/13/40/45/1000_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
+<img align="center" alt="Coding" width="1000" height="500" src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png">
 
 
 
